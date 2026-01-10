@@ -1,4 +1,4 @@
-# AnalyticsTasks
+# AnalyticsTasks-Market Data recovery
 
 Miscellanious data analytics and prompting:
 1. [Index data formatter](#index-data-formatter)
